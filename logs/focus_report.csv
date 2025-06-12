@@ -1,0 +1,80 @@
+timestamp,event_type,details
+2025-01-30 19:54:45,App Switch,{'window': 'Focus Forge AI Agent'}
+2025-01-30 19:54:50,App Switch,{'window': 'Focus Forge AI Agent'}
+2025-01-30 19:54:55,App Switch,{'window': 'Focus Forge AI Agent'}
+2025-01-30 19:55:00,App Switch,{'window': 'Focus Forge AI Agent'}
+2025-01-30 19:57:03,App Switch,{'window': 'Focus Forge AI Agent'}
+2025-01-30 19:57:08,App Switch,{'window': 'Focus Forge AI Agent'}
+2025-01-30 19:58:48,App Switch,"{'previous_window': None, 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
+2025-01-30 19:58:48,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-01-30 19:58:50,App Switch,"{'previous_window': None, 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 0.07}"
+2025-01-30 19:58:50,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-01-30 19:58:55,App Switch,"{'previous_window': 'focus_report.py - FocusForge - Cursor', 'new_window': 'Break Time', 'duration_in_previous_window': 5.0}"
+2025-01-30 19:58:55,Distraction,{'window': 'Break Time'}
+2025-01-30 19:59:47,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
+2025-01-30 19:59:47,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-30 19:59:48,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.07}"
+2025-01-30 19:59:48,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-30 20:00:37,App Switch,"{'previous_window': None, 'new_window': 'advanced_distraction.py - FocusForge - Cursor', 'duration_in_previous_window': 0.01}"
+2025-01-30 20:00:37,Work App Usage,{'window': 'advanced_distraction.py - FocusForge - Cursor'}
+2025-01-30 20:00:42,App Switch,"{'previous_window': 'advanced_distraction.py - FocusForge - Cursor', 'new_window': 'Break Time', 'duration_in_previous_window': 5.0}"
+2025-01-30 20:00:42,Distraction,{'window': 'Break Time'}
+2025-01-30 20:01:36,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
+2025-01-30 20:01:36,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-30 20:01:41,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'Break Time', 'duration_in_previous_window': 5.0}"
+2025-01-30 20:01:41,Distraction,{'window': 'Break Time'}
+2025-01-30 20:02:32,App Switch,"{'previous_window': None, 'new_window': 'decision_engine.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
+2025-01-30 20:02:32,Work App Usage,{'window': 'decision_engine.py - FocusForge - Cursor'}
+2025-01-30 20:02:34,App Switch,"{'previous_window': None, 'new_window': 'decision_engine.py - FocusForge - Cursor', 'duration_in_previous_window': 0.07}"
+2025-01-30 20:02:34,Work App Usage,{'window': 'decision_engine.py - FocusForge - Cursor'}
+2025-01-30 20:04:51,App Switch,"{'previous_window': None, 'new_window': 'decision_engine.py - FocusForge - Cursor', 'duration_in_previous_window': 1.73}"
+2025-01-30 20:04:51,Work App Usage,{'window': 'decision_engine.py - FocusForge - Cursor'}
+2025-01-30 20:04:56,App Switch,"{'previous_window': 'decision_engine.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.0}"
+2025-01-30 20:04:56,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:01,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:06,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:11,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:16,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:21,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:26,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:31,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:36,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:41,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-30 20:05:47,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:55:31,App Switch,"{'previous_window': None, 'new_window': 'database.py - FocusForge - Cursor', 'duration_in_previous_window': 1.76}"
+2025-01-31 00:55:31,Work App Usage,{'window': 'database.py - FocusForge - Cursor'}
+2025-01-31 00:55:36,App Switch,"{'previous_window': 'database.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.0}"
+2025-01-31 00:55:36,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:55:41,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:55:46,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:55:51,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:55:56,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:56:01,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:56:06,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:56:11,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:56:16,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:56:21,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-01-31 00:56:26,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 50.03}"
+2025-01-31 00:56:26,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-31 00:56:31,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-31 00:56:36,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.01}"
+2025-01-31 00:56:36,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:56:41,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:56:46,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:56:51,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:56:56,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:01,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:06,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:11,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:16,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:21,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:26,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:31,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:36,Work App Usage,{'window': 'ChatGPT'}
+2025-01-31 00:57:41,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 65.31}"
+2025-01-31 00:57:41,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-31 00:57:46,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-31 00:57:51,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-31 00:57:56,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-01-31 00:58:02,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 20.69}"
+2025-01-31 00:58:02,Distraction,{'window': 'Focus Forge AI Agent'}

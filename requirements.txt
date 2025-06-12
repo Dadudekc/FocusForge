@@ -1,0 +1,7 @@
+PyQt5
+stable-baselines3
+gym
+matplotlib
+pygetwindow
+pywinauto
+pynput
