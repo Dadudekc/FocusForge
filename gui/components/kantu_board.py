@@ -5,10 +5,11 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                             QHBoxLayout, QLabel, QPushButton, QListWidget, 
                             QListWidgetItem, QInputDialog, QMessageBox,
                             QTextEdit, QProgressBar, QFrame)
-from PyQt5.QtCore import Qt, QMimeData, QTimer
+from PyQt5.QtCore import Qt, QMimeData, QTimer, pyqtSignal
 from PyQt5.QtGui import QDrag, QColor, QFont
-from meta_skills import MetaSkillManager, MetaSkill
-from skill_animations import XPAnimation, DevlogWriter
+from core.utils.database import Database
+from meta_skills.levels.meta_skills import MetaSkills
+from .skill_animations import XPAnimation, DevlogWriter
 
 class TaskCard(QListWidgetItem):
     def __init__(self, title, description="", xp_value=5, skill_target="Grit"):
@@ -55,7 +56,7 @@ class SkillProgressBar(QProgressBar):
         self.setFormat("%v/%m XP")
 
 class SkillWidget(QFrame):
-    def __init__(self, skill: MetaSkill, parent=None):
+    def __init__(self, skill: MetaSkills, parent=None):
         super().__init__(parent)
         self.skill = skill
         self.init_ui()
@@ -98,7 +99,7 @@ class SkillWidget(QFrame):
             self.progress.setValue(self.skill.xp)
 
 class SkillOverlay(QWidget):
-    def __init__(self, skill_manager: MetaSkillManager, parent=None):
+    def __init__(self, skill_manager: MetaSkills, parent=None):
         super().__init__(parent)
         self.skill_manager = skill_manager
         self.devlog = DevlogWriter()
@@ -231,7 +232,7 @@ class KantuBoard(QMainWindow):
         """)
         
         # Initialize skill manager
-        self.skill_manager = MetaSkillManager()
+        self.skill_manager = MetaSkills()
         
         # Initialize animations
         self.animations = XPAnimation(self)

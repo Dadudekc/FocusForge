@@ -24,20 +24,43 @@ wheels/
 venv/
 ENV/
 env/
+.env
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+.project
+.pydevproject
+.settings/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+logs/
+*.csv
+*.json
+
+# RL model files
+*.zip
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
 
 # Project specific
-*.json
-devlog.md
-test_*.md
-simulation_*.md
-test_*.json
-simulation_*.json
+focus_forge.db
+ppo_focus_forge.zip
+dependency_cache.json
+chatgpt_project_context.json
+project_analysis.json
 
 # Keep these files
 !requirements.txt 

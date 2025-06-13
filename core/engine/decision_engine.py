@@ -1,7 +1,7 @@
 # decision_engine.py
 
 from stable_baselines3 import PPO
-from focus_env import FocusEnv
+from .focus_env import FocusEnv
 import os
 from gym import Wrapper
 import logging

@@ -1,15 +1,24 @@
 import time
-import pygetwindow as gw
+import json
+from datetime import datetime
+from pathlib import Path
+from ..utils.database import Database
+from .activity_monitor import ActivityMonitor
+from .distraction_logger import DistractionLogger
 from pynput import keyboard, mouse
 from transformers import pipeline
 from threading import Thread, Event
-from distraction_logger import DistractionLogger
+import pygetwindow as gw
 
 class AdvancedDistractionDetector:
-    def __init__(self, inactivity_threshold=300, check_interval=5):
+    def __init__(self):
+        self.db = Database()
+        self.activity_monitor = ActivityMonitor()
+        self.distraction_logger = DistractionLogger()
+        self.is_monitoring = False
         self.last_activity_time = time.time()
-        self.inactivity_threshold = inactivity_threshold
-        self.check_interval = check_interval
+        self.inactivity_threshold = 300
+        self.check_interval = 5
         self.work_apps = ["ChatGPT", "Cursor", "VS Code", "PyCharm"]
 
         # AI-based distraction detection model

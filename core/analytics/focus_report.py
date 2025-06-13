@@ -3,6 +3,9 @@ import os
 from datetime import datetime
 import pandas as pd
 import logging
+import csv
+from pathlib import Path
+from ..utils.database import Database
 
 LOG_FILE = "logs/distraction_log.json"
 REPORT_FILE = "logs/focus_report.json"
@@ -11,6 +14,12 @@ class FocusReport:
     def __init__(self):
         """Initialize by loading distraction logs."""
         os.makedirs("logs", exist_ok=True)
+        self.db = Database()
+        self.report_data = {
+            'sessions': [],
+            'distractions': [],
+            'tasks': []
+        }
         self.logs = self.load_logs()
 
     def load_logs(self):

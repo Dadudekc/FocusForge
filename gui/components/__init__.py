@@ -1,0 +1,3 @@
+"""
+gui.components package.
+"""

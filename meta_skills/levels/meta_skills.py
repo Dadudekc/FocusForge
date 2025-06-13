@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from dataclasses import dataclass, asdict
 from typing import Dict, List, Optional
+from core.utils.database import Database
 
 @dataclass
 class MetaSkill:
@@ -112,4 +113,13 @@ class MetaSkillManager:
         skill = self.get_skill(name)
         if skill:
             return skill.xp, skill.xp_to_next_level
-        return 0, 0 
+        return 0, 0
+
+class MetaSkills:
+    def __init__(self):
+        self.db = Database()
+        self.skills = self.load_skills()
+        self.xp = 0
+        self.level = 1
+
+    # ... rest of the file remains unchanged ... 

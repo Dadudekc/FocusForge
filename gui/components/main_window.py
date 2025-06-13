@@ -1,4 +1,4 @@
-# gui/main_window.py
+# gui/components/main_window.py
 
 import sys
 import time
@@ -6,16 +6,20 @@ import numpy as np
 from PyQt5.QtWidgets import (
     QMainWindow, QPushButton, QVBoxLayout,
     QWidget, QLabel, QLineEdit, QMessageBox, QListWidget, QComboBox,
-    QTableWidget, QTableWidgetItem, QProgressBar, QTabWidget, QHBoxLayout, QFrame
+    QTableWidget, QTableWidgetItem, QProgressBar, QTabWidget, QHBoxLayout, QFrame,
+    QInputDialog
 )
 from PyQt5.QtCore import QTimer, Qt
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
-
-from database import Database
-from decision_engine import DecisionEngine
-from focus_report import FocusReport
-from gui.settings_dialog import SettingsDialog
+from PyQt5.QtGui import QFont
+from ..dialogs.settings_dialog import SettingsDialog
+from core.utils.database import Database
+from core.trackers.advanced_distraction import AdvancedDistractionDetector
+from core.analytics.focus_report import FocusReport
+from .kantu_board import KantuBoard
+from .skill_animations import XPAnimation, DevlogWriter
+from core.engine.decision_engine import DecisionEngine
 
 class MainWindow(QMainWindow):
     def __init__(self, distraction_detector, *args, **kwargs):
@@ -180,6 +184,43 @@ class MainWindow(QMainWindow):
         reports_tab.setLayout(reports_layout)
         tabs.addTab(reports_tab, "Reports")
 
+        # Tab 6: KantuBoard
+        kantu_tab = QWidget()
+        kantu_layout = QVBoxLayout(kantu_tab)
+        self.kantu_board = KantuBoard()
+        kantu_layout.addWidget(self.kantu_board)
+        tabs.addTab(kantu_tab, "🎯 KantuBoard")
+
+        # Tab 7: Organizer
+        organizer_tab = QWidget()
+        organizer_layout = QVBoxLayout(organizer_tab)
+        
+        # Add task list
+        self.task_list = QListWidget()
+        organizer_layout.addWidget(QLabel("Tasks"))
+        organizer_layout.addWidget(self.task_list)
+        
+        # Add task controls
+        task_controls = QHBoxLayout()
+        add_task_btn = QPushButton("Add Task")
+        add_task_btn.clicked.connect(self.add_task)
+        task_controls.addWidget(add_task_btn)
+        
+        remove_task_btn = QPushButton("Remove Task")
+        remove_task_btn.clicked.connect(self.remove_task)
+        task_controls.addWidget(remove_task_btn)
+        
+        organizer_layout.addLayout(task_controls)
+        tabs.addTab(organizer_tab, "📋 Organizer")
+
+        # Tab 8: Settings
+        settings_tab = QWidget()
+        settings_layout = QVBoxLayout(settings_tab)
+        settings_btn = QPushButton("Open Settings")
+        settings_btn.clicked.connect(self.show_settings)
+        settings_layout.addWidget(settings_btn)
+        tabs.addTab(settings_tab, "⚙️ Settings")
+
         # Add Tabs to Main Layout
         main_layout.addWidget(tabs)
 
@@ -271,6 +312,12 @@ class MainWindow(QMainWindow):
             QMessageBox.information(self, "Task Added", f"Task '{description}' added successfully.")
         else:
             QMessageBox.warning(self, "Input Error", "Please enter a task description.")
+
+    def remove_task(self):
+        current_item = self.task_list.currentItem()
+        if current_item:
+            self.db.remove_task(current_item.text())
+            self.task_list.takeItem(self.task_list.row(current_item))
 
     def load_tasks(self):
         self.task_list.clear()
@@ -500,6 +547,10 @@ class MainWindow(QMainWindow):
         report_text += "</ul>"
 
         self.report_output.setText(report_text)
+
+    def show_settings(self):
+        dialog = SettingsDialog(self)
+        dialog.exec_()
 
     def closeEvent(self, event):
         """

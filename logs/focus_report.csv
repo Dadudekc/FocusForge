@@ -1,80 +1,2011 @@
 timestamp,event_type,details
-2025-01-30 19:54:45,App Switch,{'window': 'Focus Forge AI Agent'}
-2025-01-30 19:54:50,App Switch,{'window': 'Focus Forge AI Agent'}
-2025-01-30 19:54:55,App Switch,{'window': 'Focus Forge AI Agent'}
-2025-01-30 19:55:00,App Switch,{'window': 'Focus Forge AI Agent'}
-2025-01-30 19:57:03,App Switch,{'window': 'Focus Forge AI Agent'}
-2025-01-30 19:57:08,App Switch,{'window': 'Focus Forge AI Agent'}
-2025-01-30 19:58:48,App Switch,"{'previous_window': None, 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
-2025-01-30 19:58:48,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
-2025-01-30 19:58:50,App Switch,"{'previous_window': None, 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 0.07}"
-2025-01-30 19:58:50,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
-2025-01-30 19:58:55,App Switch,"{'previous_window': 'focus_report.py - FocusForge - Cursor', 'new_window': 'Break Time', 'duration_in_previous_window': 5.0}"
-2025-01-30 19:58:55,Distraction,{'window': 'Break Time'}
-2025-01-30 19:59:47,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
-2025-01-30 19:59:47,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-30 19:59:48,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.07}"
-2025-01-30 19:59:48,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-30 20:00:37,App Switch,"{'previous_window': None, 'new_window': 'advanced_distraction.py - FocusForge - Cursor', 'duration_in_previous_window': 0.01}"
-2025-01-30 20:00:37,Work App Usage,{'window': 'advanced_distraction.py - FocusForge - Cursor'}
-2025-01-30 20:00:42,App Switch,"{'previous_window': 'advanced_distraction.py - FocusForge - Cursor', 'new_window': 'Break Time', 'duration_in_previous_window': 5.0}"
-2025-01-30 20:00:42,Distraction,{'window': 'Break Time'}
-2025-01-30 20:01:36,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
-2025-01-30 20:01:36,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-30 20:01:41,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'Break Time', 'duration_in_previous_window': 5.0}"
-2025-01-30 20:01:41,Distraction,{'window': 'Break Time'}
-2025-01-30 20:02:32,App Switch,"{'previous_window': None, 'new_window': 'decision_engine.py - FocusForge - Cursor', 'duration_in_previous_window': 0.02}"
-2025-01-30 20:02:32,Work App Usage,{'window': 'decision_engine.py - FocusForge - Cursor'}
-2025-01-30 20:02:34,App Switch,"{'previous_window': None, 'new_window': 'decision_engine.py - FocusForge - Cursor', 'duration_in_previous_window': 0.07}"
-2025-01-30 20:02:34,Work App Usage,{'window': 'decision_engine.py - FocusForge - Cursor'}
-2025-01-30 20:04:51,App Switch,"{'previous_window': None, 'new_window': 'decision_engine.py - FocusForge - Cursor', 'duration_in_previous_window': 1.73}"
-2025-01-30 20:04:51,Work App Usage,{'window': 'decision_engine.py - FocusForge - Cursor'}
-2025-01-30 20:04:56,App Switch,"{'previous_window': 'decision_engine.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.0}"
-2025-01-30 20:04:56,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:01,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:06,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:11,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:16,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:21,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:26,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:31,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:36,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:41,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-30 20:05:47,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:55:31,App Switch,"{'previous_window': None, 'new_window': 'database.py - FocusForge - Cursor', 'duration_in_previous_window': 1.76}"
-2025-01-31 00:55:31,Work App Usage,{'window': 'database.py - FocusForge - Cursor'}
-2025-01-31 00:55:36,App Switch,"{'previous_window': 'database.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.0}"
-2025-01-31 00:55:36,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:55:41,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:55:46,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:55:51,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:55:56,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:56:01,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:56:06,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:56:11,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:56:16,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:56:21,Distraction,{'window': 'Focus Forge AI Agent'}
-2025-01-31 00:56:26,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 50.03}"
-2025-01-31 00:56:26,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-31 00:56:31,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-31 00:56:36,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.01}"
-2025-01-31 00:56:36,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:56:41,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:56:46,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:56:51,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:56:56,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:01,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:06,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:11,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:16,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:21,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:26,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:31,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:36,Work App Usage,{'window': 'ChatGPT'}
-2025-01-31 00:57:41,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 65.31}"
-2025-01-31 00:57:41,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-31 00:57:46,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-31 00:57:51,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-31 00:57:56,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
-2025-01-31 00:58:02,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 20.69}"
-2025-01-31 00:58:02,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:20,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Session Reset', 'duration_in_previous_window': 3.6}"
+2025-02-10 18:16:20,Distraction,{'window': 'Session Reset'}
+2025-02-10 18:16:22,Distraction,{'window': 'Session Reset'}
+2025-02-10 18:16:25,App Switch,"{'previous_window': 'Session Reset', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.0}"
+2025-02-10 18:16:25,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:27,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:30,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:32,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:35,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:37,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:40,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:42,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:45,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'distraction_log.json - FocusForge - Cursor', 'duration_in_previous_window': 20.01}"
+2025-02-10 18:16:45,Work App Usage,{'window': 'distraction_log.json - FocusForge - Cursor'}
+2025-02-10 18:16:47,Work App Usage,{'window': 'distraction_log.json - FocusForge - Cursor'}
+2025-02-10 18:16:50,Work App Usage,{'window': 'distraction_log.json - FocusForge - Cursor'}
+2025-02-10 18:16:52,App Switch,"{'previous_window': 'distraction_log.json - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 6.58}"
+2025-02-10 18:16:52,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:55,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:16:57,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:17:00,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:17:02,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:17:05,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 13.49}"
+2025-02-10 18:17:05,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:17:07,App Switch,"{'previous_window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera', 'new_window': 'Jump List for Cursor', 'duration_in_previous_window': 1.51}"
+2025-02-10 18:17:07,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:10,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:12,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:15,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:17,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:20,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:22,Work App Usage,{'window': 'Jump List for Cursor'}
+2025-02-10 18:17:25,App Switch,"{'previous_window': 'Jump List for Cursor', 'new_window': 'Cursor', 'duration_in_previous_window': 18.55}"
+2025-02-10 18:17:25,Work App Usage,{'window': 'Cursor'}
+2025-02-10 18:17:27,App Switch,"{'previous_window': 'Cursor', 'new_window': 'Open Folder', 'duration_in_previous_window': 1.55}"
+2025-02-10 18:17:27,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:30,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:32,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:35,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:37,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:40,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:42,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:45,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:47,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:50,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:52,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:55,Distraction,{'window': 'Open Folder'}
+2025-02-10 18:17:57,App Switch,"{'previous_window': 'Open Folder', 'new_window': 'Cursor', 'duration_in_previous_window': 30.11}"
+2025-02-10 18:17:57,Work App Usage,{'window': 'Cursor'}
+2025-02-10 18:18:00,App Switch,"{'previous_window': 'Cursor', 'new_window': 'Workbench - Cursor', 'duration_in_previous_window': 3.42}"
+2025-02-10 18:18:00,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:02,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:05,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:07,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:10,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:12,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:16,App Switch,"{'previous_window': 'Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 15.04}"
+2025-02-10 18:18:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:18:17,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Workbench - Cursor', 'duration_in_previous_window': 1.58}"
+2025-02-10 18:18:17,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:21,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:22,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:26,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:27,Work App Usage,{'window': 'Workbench - Cursor'}
+2025-02-10 18:18:31,App Switch,"{'previous_window': 'Workbench - Cursor', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 13.46}"
+2025-02-10 18:18:31,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:32,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:36,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 5.03}"
+2025-02-10 18:18:36,Work App Usage,{'window': 'content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:37,App Switch,"{'previous_window': 'content_manager.py - Workbench - Cursor', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 1.55}"
+2025-02-10 18:18:37,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:41,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 3.45}"
+2025-02-10 18:18:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:18:42,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 1.55}"
+2025-02-10 18:18:42,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:46,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 3.45}"
+2025-02-10 18:18:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:18:47,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 1.56}"
+2025-02-10 18:18:47,Work App Usage,{'window': 'content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:51,App Switch,"{'previous_window': 'content_manager.py - Workbench - Cursor', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 3.45}"
+2025-02-10 18:18:51,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:52,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:56,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:18:57,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:01,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:02,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:06,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:07,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:11,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:12,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:16,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:17,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:21,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 30.06}"
+2025-02-10 18:19:21,Work App Usage,{'window': 'content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:22,Work App Usage,{'window': 'content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:26,App Switch,"{'previous_window': 'content_manager.py - Workbench - Cursor', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 5.01}"
+2025-02-10 18:19:26,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:27,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:31,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:19:32,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 6.54}"
+2025-02-10 18:19:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:19:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:31,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 58.54}"
+2025-02-10 18:20:31,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:20:32,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:20:36,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:20:37,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:20:41,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:20:42,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 11.57}"
+2025-02-10 18:20:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:20:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:01,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 18.47}"
+2025-02-10 18:21:01,Work App Usage,{'window': 'content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:02,App Switch,"{'previous_window': 'content_manager.py - Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 1.55}"
+2025-02-10 18:21:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:22,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 20.03}"
+2025-02-10 18:21:22,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:26,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:27,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:31,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:32,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:36,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:37,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:21:41,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 18.48}"
+2025-02-10 18:21:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:21:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:08,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'test_content_manager.py - Workbench - Cursor', 'duration_in_previous_window': 26.59}"
+2025-02-10 18:22:08,Work App Usage,{'window': 'test_content_manager.py - Workbench - Cursor'}
+2025-02-10 18:22:11,App Switch,"{'previous_window': 'test_content_manager.py - Workbench - Cursor', 'new_window': 'Unknown', 'duration_in_previous_window': 3.47}"
+2025-02-10 18:22:11,Distraction,{'window': 'Unknown'}
+2025-02-10 18:22:13,App Switch,"{'previous_window': 'Unknown', 'new_window': 'ChatGPT', 'duration_in_previous_window': 1.53}"
+2025-02-10 18:22:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:18,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.01}"
+2025-02-10 18:22:18,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-02-10 18:22:21,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'ChatGPT', 'duration_in_previous_window': 3.45}"
+2025-02-10 18:22:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:22:23,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 1.55}"
+2025-02-10 18:22:23,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:26,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:28,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:31,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:33,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:36,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:38,Distraction,{'window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:41,App Switch,"{'previous_window': 'Side-projects/Forge/VlogForge/core/content_manager.py at main · Dadudekc/Side-projects - Opera', 'new_window': 'Side-projects/Forge/VlogForge at main · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 18.48}"
+2025-02-10 18:22:41,Distraction,{'window': 'Side-projects/Forge/VlogForge at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:43,Distraction,{'window': 'Side-projects/Forge/VlogForge at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:46,Distraction,{'window': 'Side-projects/Forge/VlogForge at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:48,App Switch,"{'previous_window': 'Side-projects/Forge/VlogForge at main · Dadudekc/Side-projects - Opera', 'new_window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 6.57}"
+2025-02-10 18:22:48,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:51,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:53,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:56,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:22:58,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:01,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:03,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:06,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:08,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:11,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:13,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:16,Distraction,{'window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:18,App Switch,"{'previous_window': 'New File at Forge/VlogForge · Dadudekc/Side-projects - Opera', 'new_window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 30.06}"
+2025-02-10 18:23:18,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:21,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:23,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:26,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:28,App Switch,"{'previous_window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.02}"
+2025-02-10 18:23:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:23:56,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 28.51}"
+2025-02-10 18:23:56,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:23:58,App Switch,"{'previous_window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera', 'new_window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 1.54}"
+2025-02-10 18:23:58,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:01,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:03,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:06,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:08,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:11,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:13,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:16,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:18,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:21,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:23,App Switch,"{'previous_window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera', 'new_window': 'ChatGPT', 'duration_in_previous_window': 25.05}"
+2025-02-10 18:24:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:28,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 5.01}"
+2025-02-10 18:24:28,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:31,Distraction,{'window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:33,App Switch,"{'previous_window': 'New File at Forge/VlogForge/tests · Dadudekc/Side-projects - Opera', 'new_window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera', 'duration_in_previous_window': 5.01}"
+2025-02-10 18:24:33,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:36,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:38,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:41,Distraction,{'window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera'}
+2025-02-10 18:24:43,App Switch,"{'previous_window': 'Side-projects/Forge/VlogForge/tests at main · Dadudekc/Side-projects - Opera', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.02}"
+2025-02-10 18:24:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:24:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:25:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:26:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:27:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:28:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:29:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:29:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:19,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:48,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:53,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:58,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:30:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:30:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:31:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:31:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:32:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:32:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:33:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:33:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:12,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:12,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:17,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:17,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:58,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:58,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:34:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:34:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:43,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:48,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:48,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:48,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:35:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:35:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:19,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:19,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:36:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:36:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:37:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:37:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:17,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:17,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:17,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:38:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:38:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:39:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:39:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:19,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:19,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:40:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:40:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:41:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:41:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:42:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:42:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:09,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:09,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:14,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:14,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:35,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:35,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:40,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:40,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:43:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:43:56,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:01,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:53,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:53,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:53,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:58,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:58,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:44:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:44:58,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:19,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:45:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:45:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:46:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:46:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:47:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:47:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:46,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:51,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:51,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:56,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:48:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:48:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:12,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:12,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:12,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:38,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:49:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:49:59,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:04,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:04,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:25,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:25,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:30,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:30,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:50:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:50:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:51:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:51:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:52:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:52:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:53:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:53:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:54:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:54:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:07,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:12,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:12,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:33,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:33,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:54,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:54,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:55:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:55:59,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:15,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:20,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:20,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:36,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:41,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:41,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:46,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:56:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:56:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:02,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:02,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:07,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:23,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:23,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:28,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:28,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:44,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:49,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:49,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:57:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:57:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:00,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:05,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:05,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:10,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:10,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:15,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:21,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:21,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:26,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:26,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:31,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:31,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:36,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:37,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:42,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:42,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:47,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:47,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:52,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:52,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:57,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:58:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:58:57,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:03,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:03,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:08,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:08,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:13,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:13,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:18,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:18,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:24,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:24,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:29,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:29,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:34,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:34,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:39,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:39,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:45,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:45,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:50,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:50,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:55,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 18:59:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 18:59:55,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:00,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:01,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:06,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:06,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:11,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:11,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:16,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:16,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:22,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:22,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:27,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:27,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:32,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:32,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:37,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:38,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:00:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:00:43,Inactivity,{'message': 'User inactive for too long!'}
+2025-02-10 19:01:44,Work App Usage,{'window': 'ChatGPT'}
+2025-02-10 19:01:44,Work App Usage,{'window': 'ChatGPT'}
+2025-04-24 21:23:28,App Switch,"{'previous_window': None, 'new_window': 'main.py - FocusForge - Cursor', 'duration_in_previous_window': 0.05}"
+2025-04-24 21:23:29,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:29,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:34,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:34,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:39,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:39,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:44,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:44,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:49,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:49,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:54,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:54,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:23:59,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:00,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:04,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:05,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:09,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:10,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:14,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:15,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:19,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:20,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:24,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:25,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:29,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:30,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:34,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:35,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:40,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:40,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:45,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:45,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:50,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:50,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:55,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:24:55,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:00,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:00,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:05,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:05,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:10,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:10,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:15,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:15,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:20,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:20,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:25,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:25,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:30,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:30,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:35,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:35,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:40,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:40,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:45,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:45,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:50,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:51,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:55,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:25:56,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:00,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:01,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:05,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:06,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:10,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:11,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:16,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:16,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:21,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:21,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:26,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:26,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:31,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:31,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:36,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:36,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:41,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:41,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:46,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:46,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:51,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:51,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:56,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:26:56,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:01,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:01,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:06,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:06,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:11,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:11,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:16,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:16,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:21,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:21,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:26,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:26,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:31,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:31,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:36,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:36,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:41,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:42,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:46,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:47,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:51,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:52,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:56,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:27:57,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:01,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:02,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:06,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:07,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:12,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:12,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:17,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:17,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:22,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:22,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:27,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:27,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:32,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:32,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:37,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:37,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:42,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:42,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:47,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:47,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:52,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:52,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:57,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:28:57,Work App Usage,{'window': 'main.py - FocusForge - Cursor'}
+2025-04-24 21:29:02,App Switch,"{'previous_window': 'main.py - FocusForge - Cursor', 'new_window': 'Open Folder', 'duration_in_previous_window': 333.38}"
+2025-04-24 21:29:02,Distraction,{'window': 'Open Folder'}
+2025-04-24 21:29:02,Distraction,{'window': 'Open Folder'}
+2025-06-12 16:32:06,App Switch,"{'previous_window': None, 'new_window': 'giersi - Twitch - Opera', 'duration_in_previous_window': 0.11}"
+2025-06-12 16:32:06,Distraction,{'window': 'giersi - Twitch - Opera'}
+2025-06-12 16:32:07,App Switch,"{'previous_window': 'giersi - Twitch - Opera', 'new_window': 'Channel dashboard - YouTube Studio - Opera', 'duration_in_previous_window': 0.45}"
+2025-06-12 16:32:07,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:11,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:12,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:16,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:17,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:21,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:22,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:27,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:27,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:32,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:32,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:37,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:37,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:43,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:43,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:48,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:48,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:53,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:53,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:58,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:32:58,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:03,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:03,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:08,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:08,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:13,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:13,Distraction,{'window': 'Channel dashboard - YouTube Studio - Opera'}
+2025-06-12 16:33:18,App Switch,"{'previous_window': 'Channel dashboard - YouTube Studio - Opera', 'new_window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled', 'duration_in_previous_window': 71.41}"
+2025-06-12 16:33:18,App Switch,"{'previous_window': 'Channel dashboard - YouTube Studio - Opera', 'new_window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled', 'duration_in_previous_window': 71.43}"
+2025-06-12 16:33:18,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:18,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:23,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:23,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:28,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:28,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:33,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:33,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:38,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:38,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:43,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:43,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:48,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:48,Distraction,{'window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled'}
+2025-06-12 16:33:54,App Switch,"{'previous_window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled', 'new_window': 'zip_resolver.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 35.34}"
+2025-06-12 16:33:54,App Switch,"{'previous_window': 'OBS 31.0.3 - Profile: Untitled - Scenes: Untitled', 'new_window': 'zip_resolver.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 35.38}"
+2025-06-12 16:33:54,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:33:54,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:33:59,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:33:59,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:04,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:04,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:09,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:09,Work App Usage,{'window': 'zip_resolver.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:14,App Switch,"{'previous_window': 'zip_resolver.py - Untitled (Workspace) - Cursor', 'new_window': 'system_diagnostics.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 20.14}"
+2025-06-12 16:34:14,App Switch,"{'previous_window': 'zip_resolver.py - Untitled (Workspace) - Cursor', 'new_window': 'system_diagnostics.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 20.18}"
+2025-06-12 16:34:14,Work App Usage,{'window': 'system_diagnostics.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:14,Work App Usage,{'window': 'system_diagnostics.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:19,Work App Usage,{'window': 'system_diagnostics.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:19,Work App Usage,{'window': 'system_diagnostics.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:24,Work App Usage,{'window': 'system_diagnostics.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:24,Work App Usage,{'window': 'system_diagnostics.py - Untitled (Workspace) - Cursor'}
+2025-06-12 16:34:29,App Switch,"{'previous_window': 'system_diagnostics.py - Untitled (Workspace) - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 15.17}"
+2025-06-12 16:34:29,App Switch,"{'previous_window': 'system_diagnostics.py - Untitled (Workspace) - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 15.21}"
+2025-06-12 16:34:29,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-12 16:34:29,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-12 16:34:34,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-12 16:34:34,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-12 16:34:39,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-12 16:34:39,Distraction,{'window': 'Focus Forge AI Agent'}

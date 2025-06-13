@@ -1,0 +1,67 @@
+# FocusForge Project Configuration
+
+# Core Settings
+project:
+  name: "FocusForge"
+  version: "2.0.0"
+  description: "Your solo battle OS for deep focus and productivity"
+  mission: "Track. Train. Transform."
+
+# Directory Structure
+paths:
+  core: "core/"
+  gui: "gui/"
+  meta_skills: "meta_skills/"
+  docs: "docs/"
+  tests: "tests/"
+  logs: "logs/"
+  data: "data/"
+  config: "config/"
+
+# Feature Flags
+features:
+  distraction_detection: true
+  pomodoro_timer: true
+  task_manager: true
+  analytics: true
+  meta_skills: true
+  kantu_board: true
+  focus_reporting: true
+  dark_mode: false  # Coming in Phase 2
+  mobile_sync: false  # Coming in Phase 5
+  discord_integration: false  # Coming in Phase 3
+
+# Development Settings
+development:
+  debug_mode: false
+  log_level: "INFO"
+  test_coverage_target: 80
+  max_file_size_mb: 10
+  max_lines_per_edit: 600
+
+# Integration Settings
+integrations:
+  dream_os:
+    enabled: false
+    bridge_mode: "one_way"
+  discord:
+    enabled: false
+    webhook_url: ""
+  mobile:
+    enabled: false
+    sync_interval: 300  # seconds
+
+# Performance Settings
+performance:
+  cache_size_mb: 100
+  max_memory_mb: 512
+  update_interval_ms: 1000
+  session_timeout_minutes: 30
+
+# UI Settings
+ui:
+  theme: "light"
+  animation_speed: "normal"
+  font_size: "medium"
+  show_notifications: true
+  notification_duration: 5  # seconds 

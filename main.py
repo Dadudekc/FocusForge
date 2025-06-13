@@ -2,16 +2,16 @@
 
 import sys
 from PyQt5.QtWidgets import QApplication
-from gui.main_window import MainWindow
-from advanced_distraction import AdvancedDistractionDetector
-from focus_report import FocusReport
+from gui.components.main_window import MainWindow
+from core.trackers.advanced_distraction import AdvancedDistractionDetector
+from core.analytics.focus_report import FocusReport
 
-print("Launching Focus Forge AI Agent...")
+print("Launching Focus Forge...")
 
 def main():
     app = QApplication(sys.argv)
     distraction_detector = AdvancedDistractionDetector()
-    window = MainWindow(distraction_detector)  # Pass the detector correctly
+    window = MainWindow(distraction_detector)
 
     # Start Advanced Distraction Monitoring
     distraction_detector.start_monitoring()

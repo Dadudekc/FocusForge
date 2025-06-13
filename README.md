@@ -1,113 +1,89 @@
-# Focus Forge AI Agent
+# FocusForge
 
-**Focus Forge** is an AI-powered Pomodoro-based productivity application that dynamically adjusts work and break sessions based on user behavior. It leverages Reinforcement Learning (PPO) to optimize focus efficiency over time.
+Your solo battle OS for deep focus and productivity.
 
-## **Features**
+## 🎯 Mission
 
-- **Dynamic Session Adjustment:** Automatically modifies Pomodoro durations based on performance.
-- **Task Management:** Prioritize and manage tasks with ease.
-- **Distraction Detection:** Monitors active windows and user inactivity to detect distractions.
-- **Analytics & Visualization:** Gain insights into your productivity patterns.
-- **Reinforcement Learning Optimization:** AI-driven optimizations for personalized focus sessions.
+Track. Train. Transform.
 
-## **Installation**
+## 🏗️ Project Structure
 
-1. **Clone the Repository:**
+```
+FocusForge/
+├── core/                    # Core functionality
+│   ├── trackers/           # Distraction and activity tracking
+│   ├── analytics/          # Focus reporting and analysis
+│   ├── engine/             # Decision engine and RL components
+│   └── utils/              # Shared utilities
+├── gui/                    # User interface components
+│   ├── components/         # Main UI components
+│   ├── dialogs/           # Modal dialogs
+│   └── themes/            # UI themes
+├── meta_skills/           # Gamification system
+│   ├── animations/        # Skill animations
+│   └── levels/            # Skill progression
+├── tests/                 # Test suite
+│   ├── unit/             # Unit tests
+│   └── integration/      # Integration tests
+├── docs/                  # Documentation
+├── config/                # Configuration files
+└── logs/                  # Application logs
+```
 
-   ```bash
-   git clone https://github.com/yourusername/focus_forge.git
-   cd focus_forge
+## 🚀 Features
 
-2. **Create a Virtual Environment:**
+- 🧠 Advanced distraction detection
+- 📊 Session analytics and reporting
+- 🎮 Gamified meta-skills system
+- 📋 Kanban-style task board
+- 🎯 Focus environment optimization
+- 📈 Progress tracking and visualization
 
+## 🛠️ Development
+
+### Prerequisites
+
+- Python 3.8+
+- PyQt5
+- SQLite3
+
+### Setup
+
+1. Clone the repository
+2. Create a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows
    ```
-
-3. **Install Dependencies:**
-
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Initialize the Database:**
+### Running
 
-   The database is automatically initialized when you run the application for the first time.
+```bash
+python main.py
+```
 
-5. **Train the Reinforcement Learning Model (Optional but Recommended):**
+## 📝 License
 
-   ```bash
-   python train_rl.py
-   ```
+MIT License - see LICENSE file for details
 
+## 🤝 Contributing
 
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
-6. **Train the Reinforcement Learning Model (Optional but Recommended):**
+## 📚 Documentation
 
-   ```bash
-   python train_rl.py
-   ```
-
-   Note: Training may take time based on the number of timesteps and available computational resources.
-
-7. **Running the Application:**
-
-   ```bash
-   python main.py
-   ```
-
-
-8. **Usage:**
-
-   - **Add Tasks:**
-
-     Enter a task description.
-     Select priority (High, Medium, Low).
-     Click "Add Task" to include it in your task list.
-
-   - **Start Timer:**
-
-     Click "Start" to begin a work session.
-     The timer will count down, switching between work and break sessions automatically.
-
-   - **Monitor Sessions:**
-
-     View session history and performance metrics.
-
-   - **Analyze Productivity Patterns:**
-
-     Analyze productivity patterns through visual charts.
-
-   - **Settings:**
-
-     Access settings to customize default work/break durations.
-     Toggle Reinforcement Learning optimization.
-
-9. **Project Structure:**
-
-   - **main.py:** Core PyQt5 application.
-   - **database.py:** Handles all database operations.
-   - **decision_engine.py:** Implements rule-based and RL-based session adjustments.
-   - **focus_env.py:** Custom Gym environment for RL.
-   - **distraction_monitor.py:** Monitors active window changes.
-   - **activity_monitor.py:** Tracks keyboard and mouse activity.
-   - **train_rl.py:** Script to train the PPO model.
-   - **requirements.txt:** List of project dependencies.
-   - **README.md:** Project documentation.
-
-10. **Contributing:**
-
-   Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-11. **License:**
-
-   MIT License. See LICENSE for details.
-
-
-12. **Contact:**
-
-   For questions or feedback, please contact me at [Donotcontactme@gmail.com].
+- [Vision](docs/VISION.md)
+- [Roadmap](docs/ROADMAP_V2.md)
+- [Configuration](config/project_config.yaml)
 
 
 
