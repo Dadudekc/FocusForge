@@ -3,13 +3,18 @@
 import gymnasium as gym
 from stable_baselines3 import PPO
 from stable_baselines3.common.env_checker import check_env
-from focus_env import FocusEnv
-from database import Database
-from decision_engine import DecisionEngine
+from core.engine.focus_env import FocusEnv
+from core.utils.database import Database
+from core.engine.decision_engine import DecisionEngine
 
 def main():
     db = Database()
-    decision_engine = DecisionEngine(db)
+    # Placeholder distraction detector that satisfies DecisionEngine API during offline training.
+    class _StubDistractionDetector:
+        def reset_distractions(self):
+            return 0
+
+    decision_engine = DecisionEngine(db, _StubDistractionDetector())
     env = FocusEnv(db, decision_engine)
     
     # Verify the environment adheres to Gym's API

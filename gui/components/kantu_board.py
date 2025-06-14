@@ -1,10 +1,9 @@
 import sys
 import json
-from pathlib import Path
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                             QHBoxLayout, QLabel, QPushButton, QListWidget, 
                             QListWidgetItem, QInputDialog, QMessageBox,
-                            QTextEdit, QProgressBar, QFrame)
+                            QTextEdit, QProgressBar, QFrame, QMenu)
 from PyQt5.QtCore import Qt, QMimeData, QTimer, pyqtSignal
 from PyQt5.QtGui import QDrag, QColor, QFont
 from core.utils.database import Database
@@ -201,6 +200,10 @@ class KantuColumn(QListWidget):
             }
         """)
         
+        # Context menu
+        self.setContextMenuPolicy(Qt.CustomContextMenu)
+        self.customContextMenuRequested.connect(self.open_context_menu)
+        
     def dragEnterEvent(self, event):
         if event.mimeData().hasFormat("application/x-taskcard"):
             event.accept()
@@ -218,12 +221,46 @@ class KantuColumn(QListWidget):
             # If dropped in Done column, award XP
             if self.title_label.text() == "Done":
                 self.parent().award_xp(card)
+            
+            # Persist board state after every drop
+            if hasattr(self.parent(), 'save_tasks'):
+                self.parent().save_tasks()
         else:
             event.ignore()
+
+    # ---------------------- Context Menu ---------------------- #
+    def open_context_menu(self, position):
+        item = self.itemAt(position)
+        if item is None:
+            return
+
+        menu = QMenu(self)
+        edit_action = menu.addAction("✏️ Edit")
+        delete_action = menu.addAction("🗑️ Delete")
+        duplicate_action = menu.addAction("📄 Duplicate")
+
+        action = menu.exec_(self.viewport().mapToGlobal(position))
+
+        if action == edit_action:
+            new_title, ok = QInputDialog.getText(self, "Edit Task", "Task Title:", text=item.text())
+            if ok and new_title:
+                item.setText(new_title)
+                # Optionally, edit description/xp later
+        elif action == delete_action:
+            row = self.row(item)
+            self.takeItem(row)
+        elif action == duplicate_action:
+            clone = TaskCard(item.text(), getattr(item, 'description', ''), getattr(item, 'xp_value', 5), getattr(item, 'skill_target', 'Grit'))
+            self.addItem(clone)
+
+        # Persist board state after any change
+        if hasattr(self.parent(), 'save_tasks'):
+            self.parent().save_tasks()
 
 class KantuBoard(QMainWindow):
     def __init__(self):
         super().__init__()
+        self.db = Database()
         self.setWindowTitle("Kantu Board - Focus Forge")
         self.setStyleSheet("""
             QMainWindow {
@@ -340,30 +377,28 @@ class KantuBoard(QMainWindow):
                 )
             
             self.skill_overlay.update_skills()
+            self.save_tasks()
                 
-    def save_tasks(self):
-        tasks = {
+    # ------------------------------------------------------------------
+    # Persistence helpers (Database-backed instead of tasks.json)
+    # ------------------------------------------------------------------
+
+    def _current_state(self):
+        """Return board state as serialisable dict."""
+        return {
             "backlog": [item.to_dict() for item in self.get_items(self.backlog)],
             "now": [item.to_dict() for item in self.get_items(self.now)],
             "done": [item.to_dict() for item in self.get_items(self.done)]
         }
-        
-        with open("tasks.json", "w") as f:
-            json.dump(tasks, f, indent=2)
-            
+
+    def save_tasks(self):
+        """Persist board to SQLite via core.utils.database.Database."""
+        self.db.save_board_state(self._current_state())
+
     def load_tasks(self):
-        try:
-            with open("tasks.json", "r") as f:
-                tasks = json.load(f)
-                
-            for task in tasks.get("backlog", []):
-                self.backlog.addItem(TaskCard.from_dict(task))
-            for task in tasks.get("now", []):
-                self.now.addItem(TaskCard.from_dict(task))
-            for task in tasks.get("done", []):
-                self.done.addItem(TaskCard.from_dict(task))
-        except FileNotFoundError:
-            # Create sample tasks for first run
+        state = self.db.load_board_state()
+        if state is None:
+            # First run: seed with sample tasks
             sample_tasks = [
                 TaskCard("Initialize Focus Forge", "Set up core architecture", 10, "Grit"),
                 TaskCard("Design UI Framework", "Create base UI components", 5, "Precision"),
@@ -372,7 +407,16 @@ class KantuBoard(QMainWindow):
             for task in sample_tasks:
                 self.backlog.addItem(task)
             self.save_tasks()
-            
+            return
+
+        # Populate columns from loaded state
+        for task in state.get("backlog", []):
+            self.backlog.addItem(TaskCard.from_dict(task))
+        for task in state.get("now", []):
+            self.now.addItem(TaskCard.from_dict(task))
+        for task in state.get("done", []):
+            self.done.addItem(TaskCard.from_dict(task))
+
     def get_items(self, list_widget):
         return [list_widget.item(i) for i in range(list_widget.count())]
         

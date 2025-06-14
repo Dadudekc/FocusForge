@@ -2009,3 +2009,517 @@ timestamp,event_type,details
 2025-06-12 16:34:34,Distraction,{'window': 'Focus Forge AI Agent'}
 2025-06-12 16:34:39,Distraction,{'window': 'Focus Forge AI Agent'}
 2025-06-12 16:34:39,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-12 20:57:04,App Switch,"{'previous_window': None, 'new_window': 'Climbing with MAGNET Shoes - YouTube - Opera', 'duration_in_previous_window': 0.02}"
+2025-06-12 20:57:04,Distraction,{'window': 'Climbing with MAGNET Shoes - YouTube - Opera'}
+2025-06-13 18:12:32,App Switch,"{'previous_window': None, 'new_window': 'ChatGPT', 'duration_in_previous_window': 0.04}"
+2025-06-13 18:12:33,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:03:00,App Switch,"{'previous_window': None, 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 0.03}"
+2025-06-14 05:03:00,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:04:32,App Switch,"{'previous_window': None, 'new_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 0.02}"
+2025-06-14 05:04:33,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:04:33,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:04:38,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:04:38,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:04:43,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:04:43,App Switch,"{'previous_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 10.51}"
+2025-06-14 05:04:43,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:04:48,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:04:48,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:04:53,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:04:54,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:04:58,App Switch,"{'previous_window': 'focus_report.py - FocusForge - Cursor', 'new_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 14.79}"
+2025-06-14 05:04:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:04:59,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:03,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:04,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:08,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:09,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:13,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:14,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:19,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:19,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:24,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:24,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:29,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:29,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:34,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:35,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:39,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:40,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:45,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:50,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:54,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:55,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:05:59,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:04,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:09,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:25,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:26,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:30,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:31,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:35,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:36,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:40,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:41,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:45,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:46,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:50,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:51,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:55,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:06:56,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:02,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:07,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:11,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:12,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:16,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:21,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:26,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:31,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:36,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:41,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:46,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:51,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:52,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:56,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:07:57,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:01,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:02,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:06,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:07,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:11,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:13,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:16,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:18,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:21,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:23,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:26,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:28,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:33,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:38,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:43,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:48,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:52,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:53,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:57,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:08:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:02,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:03,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:07,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:09,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:13,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:14,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:18,App Switch,"{'previous_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'new_window': 'Channel content - YouTube Studio - Opera', 'duration_in_previous_window': 259.6}"
+2025-06-14 05:09:18,Distraction,{'window': 'Channel content - YouTube Studio - Opera'}
+2025-06-14 05:09:19,Distraction,{'window': 'Channel content - YouTube Studio - Opera'}
+2025-06-14 05:09:23,App Switch,"{'previous_window': 'Channel content - YouTube Studio - Opera', 'new_window': 'projectscanner/project_scanner.py at main · Dadudekc/projectscanner - Opera', 'duration_in_previous_window': 5.09}"
+2025-06-14 05:09:23,Distraction,{'window': 'projectscanner/project_scanner.py at main · Dadudekc/projectscanner - Opera'}
+2025-06-14 05:09:24,Distraction,{'window': 'projectscanner/project_scanner.py at main · Dadudekc/projectscanner - Opera'}
+2025-06-14 05:09:28,App Switch,"{'previous_window': 'projectscanner/project_scanner.py at main · Dadudekc/projectscanner - Opera', 'new_window': 'New conversation · GitHub Copilot - Opera', 'duration_in_previous_window': 5.08}"
+2025-06-14 05:09:29,Distraction,{'window': 'New conversation · GitHub Copilot - Opera'}
+2025-06-14 05:09:29,Distraction,{'window': 'New conversation · GitHub Copilot - Opera'}
+2025-06-14 05:09:34,Distraction,{'window': 'New conversation · GitHub Copilot - Opera'}
+2025-06-14 05:09:34,Distraction,{'window': 'New conversation · GitHub Copilot - Opera'}
+2025-06-14 05:09:39,App Switch,"{'previous_window': 'New conversation · GitHub Copilot - Opera', 'new_window': 'Cursor agent coordinates in victor.os configuration · GitHub Copilot - Opera', 'duration_in_previous_window': 10.17}"
+2025-06-14 05:09:39,Work App Usage,{'window': 'Cursor agent coordinates in victor.os configuration · GitHub Copilot - Opera'}
+2025-06-14 05:09:39,Work App Usage,{'window': 'Cursor agent coordinates in victor.os configuration · GitHub Copilot - Opera'}
+2025-06-14 05:09:44,App Switch,"{'previous_window': 'Cursor agent coordinates in victor.os configuration · GitHub Copilot - Opera', 'new_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 5.06}"
+2025-06-14 05:09:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:54,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:55,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:09:59,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:04,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:09,App Switch,"{'previous_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 25.31}"
+2025-06-14 05:10:09,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:10:10,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:10:14,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 5.1}"
+2025-06-14 05:10:14,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:15,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:20,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:20,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:25,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:25,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:30,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:30,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:35,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:35,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:40,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:40,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:45,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:45,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:10:50,App Switch,"{'previous_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'new_window': 'discord_dispatcher.py - chat_mate - Cursor', 'duration_in_previous_window': 35.8}"
+2025-06-14 05:10:50,App Switch,"{'previous_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'new_window': 'discord_dispatcher.py - chat_mate - Cursor', 'duration_in_previous_window': 35.94}"
+2025-06-14 05:10:50,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:10:51,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:10:56,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:10:56,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:01,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:01,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:06,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:06,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:11,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:11,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:16,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:16,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:21,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:21,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:26,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:26,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:31,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:31,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:36,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:36,Work App Usage,{'window': 'discord_dispatcher.py - chat_mate - Cursor'}
+2025-06-14 05:11:41,App Switch,"{'previous_window': 'discord_dispatcher.py - chat_mate - Cursor', 'new_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 50.53}"
+2025-06-14 05:11:41,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:41,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:46,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:47,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:51,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:52,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:56,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:11:57,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:01,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:02,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:06,App Switch,"{'previous_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 25.29}"
+2025-06-14 05:12:07,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:12:07,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:12:12,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 5.08}"
+2025-06-14 05:12:12,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:12,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:17,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:17,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:22,App Switch,"{'previous_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.2}"
+2025-06-14 05:12:22,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:12:22,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:12:27,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:12:27,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:12:32,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 10.21}"
+2025-06-14 05:12:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:38,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:43,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:48,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:48,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:53,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:53,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:12:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:03,App Switch,"{'previous_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'new_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 30.58}"
+2025-06-14 05:13:03,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:03,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:08,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:08,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:13,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:13,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:18,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:19,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:24,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:24,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:29,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:29,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:34,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:34,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:39,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:39,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:44,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:44,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:49,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:49,Work App Usage,{'window': 'pattern_delete.py - Untitled (Workspace) - Cursor'}
+2025-06-14 05:13:54,App Switch,"{'previous_window': 'pattern_delete.py - Untitled (Workspace) - Cursor', 'new_window': 'Unknown', 'duration_in_previous_window': 51.28}"
+2025-06-14 05:13:54,Distraction,{'window': 'Unknown'}
+2025-06-14 05:13:54,Distraction,{'window': 'Unknown'}
+2025-06-14 05:14:00,App Switch,"{'previous_window': 'Unknown', 'new_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 5.12}"
+2025-06-14 05:14:00,App Switch,"{'previous_window': 'Unknown', 'new_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'duration_in_previous_window': 5.17}"
+2025-06-14 05:14:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:26,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:26,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:31,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:31,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:36,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:36,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:52,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:52,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:57,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:14:57,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:02,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:02,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:07,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:07,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:12,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:12,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:33,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:33,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:39,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:39,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:54,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:15:54,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:00,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:25,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:25,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:30,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:30,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:36,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:36,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:41,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:41,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:46,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:46,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:51,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:51,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:56,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:16:56,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:01,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:01,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:06,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:06,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:12,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:12,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:53,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:53,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:17:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:03,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:03,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:08,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:08,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:13,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:13,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:18,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:18,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:23,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:23,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:28,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:28,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:34,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:34,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:39,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:39,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:44,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:49,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:54,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:54,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:59,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:18:59,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:05,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:10,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:15,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:20,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:25,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:25,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:30,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:30,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:35,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:35,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:41,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:41,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:46,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:46,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:51,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:51,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:56,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:19:56,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:01,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:01,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:06,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:06,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:11,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:11,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:17,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:22,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:27,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:32,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:37,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:42,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:47,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:52,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:53,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:20:58,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:21:03,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:21:03,Work App Usage,{'window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor'}
+2025-06-14 05:21:08,App Switch,"{'previous_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 428.13}"
+2025-06-14 05:21:08,App Switch,"{'previous_window': 'python tools/bridge/watchers/reply_handoff_watcher.py | cat - Untitled (Workspace) - Cursor', 'new_window': 'focus_report.py - FocusForge - Cursor', 'duration_in_previous_window': 428.2}"
+2025-06-14 05:21:08,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:21:08,Work App Usage,{'window': 'focus_report.py - FocusForge - Cursor'}
+2025-06-14 05:21:13,App Switch,"{'previous_window': 'focus_report.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.18}"
+2025-06-14 05:21:13,App Switch,"{'previous_window': 'focus_report.py - FocusForge - Cursor', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.19}"
+2025-06-14 05:21:13,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:13,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:19,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Screen snipping', 'duration_in_previous_window': 5.15}"
+2025-06-14 05:21:19,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Screen snipping', 'duration_in_previous_window': 5.16}"
+2025-06-14 05:21:19,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:21:19,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:21:24,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:21:24,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:21:30,App Switch,"{'previous_window': 'Screen snipping', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 10.78}"
+2025-06-14 05:21:30,App Switch,"{'previous_window': 'Screen snipping', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 10.78}"
+2025-06-14 05:21:30,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:30,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:35,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'ChatGPT', 'duration_in_previous_window': 5.18}"
+2025-06-14 05:21:35,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'ChatGPT', 'duration_in_previous_window': 5.18}"
+2025-06-14 05:21:35,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:21:35,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:21:40,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.12}"
+2025-06-14 05:21:40,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.13}"
+2025-06-14 05:21:40,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:40,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:45,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:45,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:51,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:51,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:56,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:21:56,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:01,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:01,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:06,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:06,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:11,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:11,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:16,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:16,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:21,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:21,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:26,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:26,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:32,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:32,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:37,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:37,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:42,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Screen snipping', 'duration_in_previous_window': 61.58}"
+2025-06-14 05:22:42,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Screen snipping', 'duration_in_previous_window': 61.58}"
+2025-06-14 05:22:42,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:22:42,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:22:47,App Switch,"{'previous_window': 'Screen snipping', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.09}"
+2025-06-14 05:22:47,App Switch,"{'previous_window': 'Screen snipping', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.11}"
+2025-06-14 05:22:47,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:47,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:52,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'ChatGPT', 'duration_in_previous_window': 5.13}"
+2025-06-14 05:22:52,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'ChatGPT', 'duration_in_previous_window': 5.15}"
+2025-06-14 05:22:53,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:22:53,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:22:58,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.13}"
+2025-06-14 05:22:58,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 5.19}"
+2025-06-14 05:22:58,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:22:58,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:03,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:03,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:08,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:08,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:13,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:13,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:18,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:18,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:23,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:23,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:28,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:28,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:23:33,App Switch,"{'previous_window': 'Focus Forge AI Agent', 'new_window': 'Screen snipping', 'duration_in_previous_window': 35.37}"
+2025-06-14 05:23:33,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:23:33,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:23:39,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:23:39,Distraction,{'window': 'Screen snipping'}
+2025-06-14 05:23:44,App Switch,"{'previous_window': 'Screen snipping', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.25}"
+2025-06-14 05:23:44,App Switch,"{'previous_window': 'Screen snipping', 'new_window': 'ChatGPT', 'duration_in_previous_window': 10.27}"
+2025-06-14 05:23:44,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:23:44,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:23:49,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:23:49,Work App Usage,{'window': 'ChatGPT'}
+2025-06-14 05:23:54,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Settings', 'duration_in_previous_window': 10.32}"
+2025-06-14 05:23:54,App Switch,"{'previous_window': 'ChatGPT', 'new_window': 'Settings', 'duration_in_previous_window': 10.34}"
+2025-06-14 05:23:54,Distraction,{'window': 'Settings'}
+2025-06-14 05:23:54,Distraction,{'window': 'Settings'}
+2025-06-14 05:24:00,Distraction,{'window': 'Settings'}
+2025-06-14 05:24:00,Distraction,{'window': 'Settings'}
+2025-06-14 05:24:05,App Switch,"{'previous_window': 'Settings', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 10.34}"
+2025-06-14 05:24:05,App Switch,"{'previous_window': 'Settings', 'new_window': 'Focus Forge AI Agent', 'duration_in_previous_window': 10.35}"
+2025-06-14 05:24:05,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:24:05,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:24:10,Distraction,{'window': 'Focus Forge AI Agent'}
+2025-06-14 05:24:10,Distraction,{'window': 'Focus Forge AI Agent'}

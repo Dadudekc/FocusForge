@@ -35,6 +35,14 @@ class Database:
                 created_at TEXT
             )
         ''')
+        # Board state table (single-row JSON payload)
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS board_state (
+                id INTEGER PRIMARY KEY CHECK (id = 1),
+                state_json TEXT,
+                updated_at TEXT
+            )
+        ''')
         self.conn.commit()
 
     # Session Methods
@@ -134,3 +142,28 @@ class Database:
 
     def close(self):
         self.conn.close()
+
+    # ------------------------------------------------------------------
+    # Kanban Board (KantuBoard) persistence helpers
+    # ------------------------------------------------------------------
+
+    def save_board_state(self, state_dict):
+        """Persist full board state (dict) as JSON in the single-row table."""
+        import json, datetime
+        payload = json.dumps(state_dict, indent=2)
+        ts = datetime.datetime.now().isoformat()
+        cursor = self.conn.cursor()
+        cursor.execute('''
+            INSERT INTO board_state (id, state_json, updated_at)
+            VALUES (1, ?, ?)
+            ON CONFLICT(id) DO UPDATE SET state_json = excluded.state_json, updated_at = excluded.updated_at
+        ''', (payload, ts))
+        self.conn.commit()
+
+    def load_board_state(self):
+        """Return board state dict if stored, else None."""
+        import json
+        cursor = self.conn.cursor()
+        cursor.execute('SELECT state_json FROM board_state WHERE id = 1')
+        row = cursor.fetchone()
+        return json.loads(row[0]) if row and row[0] else None

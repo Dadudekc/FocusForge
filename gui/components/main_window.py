@@ -250,6 +250,10 @@ class MainWindow(QMainWindow):
             }
         """)
 
+        # ---------------- Menu Bar ---------------- #
+        settings_action = self.menuBar().addAction("⚙ Settings")
+        settings_action.triggered.connect(self.show_settings)
+
     # Dashboard Specific Update Methods
     def update_dashboard_focus_progress(self):
         """
@@ -549,7 +553,8 @@ class MainWindow(QMainWindow):
         self.report_output.setText(report_text)
 
     def show_settings(self):
-        dialog = SettingsDialog(self)
+        """Open the settings dialog, passing in the current decision engine for live edits."""
+        dialog = SettingsDialog(self.decision_engine, parent=self)
         dialog.exec_()
 
     def closeEvent(self, event):

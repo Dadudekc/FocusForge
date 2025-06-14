@@ -115,11 +115,20 @@ class MetaSkillManager:
             return skill.xp, skill.xp_to_next_level
         return 0, 0
 
-class MetaSkills:
-    def __init__(self):
-        self.db = Database()
-        self.skills = self.load_skills()
-        self.xp = 0
-        self.level = 1
+class MetaSkills(MetaSkillManager):
+    """Concrete wrapper that exposes MetaSkillManager's functionality under the
+    historical `MetaSkills` name expected by UI code (KantuBoard).
 
-    # ... rest of the file remains unchanged ... 
+    Inherits all CRUD/XP logic from `MetaSkillManager` and just wires the
+    database handle if we later want to sync skill analytics there."""
+
+    def __init__(self, skills_file: str = "meta_skills.json"):
+        self.db = Database()
+        super().__init__(skills_file)
+
+    # Extra helper proxies (optional – for future DB analytics)
+    def total_xp(self) -> int:
+        return sum(skill.xp for skill in self.skills.values())
+
+    def average_level(self) -> float:
+        return sum(skill.level for skill in self.skills.values()) / len(self.skills) 
