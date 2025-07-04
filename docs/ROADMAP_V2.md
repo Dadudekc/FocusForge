@@ -13,6 +13,8 @@
 - [ ] 🎮 KantuBoard gamification polish (XP animations, draggable tasks)
 - [ ] 📤 Session-to-report export
 - [ ] 🔄 App usage logging for deep work stats
+- [ ] 🔢 Focus scoring algorithm for each session
+- [ ] 🏷️ Session tagging for improved filters
 
 ## 🧱 Phase 2 — Foundation Polish (July 2024)
 
@@ -26,6 +28,9 @@
 - [ ] 🌓 Dark/light theme toggle UI polish
 - [ ] 🎨 Consistent design language across all components
 - [ ] 📱 Responsive layout improvements
+- [ ] 👋 First-run onboarding wizard
+- [ ] 🧰 Command-line session launcher
+- [ ] 🗒 Improved error logs and diagnostics
 
 ## 🌐 Phase 3 — Sync + Optional Bridge (August 2024)
 
@@ -37,6 +42,9 @@
 ### Data Portability
 - [ ] 📤 Export/import functionality
 - [ ] 🔄 Backup/restore system
+- [ ] ☁️ Cloud sync (Dropbox/Google Drive)
+- [ ] 🔑 Public REST API
+- [ ] 🔀 Bidirectional Dream.OS sync (optional)
 - [ ] 📊 Data visualization improvements
 
 ## 🧠 Phase 4 — Deep Personal Feedback (Fall 2024)
@@ -46,11 +54,15 @@
 - [ ] 🗣️ "Mid-session reflection" interrupt prompts
 - [ ] 📜 Narrative-style session logs ("You sat for 47m. You faced 3 distractions. Your intent held.")
 - [ ] 🎯 Intention Tracker: "What are you trying to do right now?" — with match scoring
+- [ ] 📣 Voice summary of daily sessions
+- [ ] ✨ Adaptive break recommendations
 
 ### Personalization
 - [ ] 🎯 Custom focus goals
 - [ ] 📊 Personalized analytics
 - [ ] 🎮 Custom meta-skill paths
+- [ ] 🧩 Customizable achievements
+- [ ] 🕹️ Optional focus mini-games
 
 ## 📱 Phase 5 — Mobile Companion (Optional)
 
@@ -58,11 +70,21 @@
 - [ ] Android app: timer, task, session sync
 - [ ] Push notifications when session ends or goal missed
 - [ ] Lightweight stats viewer
+- [ ] 🍎 iOS app parity
+- [ ] 📶 Offline mode with local caching
+- [ ] 🔄 Cross-device session handoff
 
 ### Mobile Enhancements
 - [ ] 📱 Widget support
 - [ ] 🔔 Custom notification rules
 - [ ] 📊 Mobile-optimized dashboards
+## 🌟 Phase 6 — Community Collaboration (Early 2025)
+
+### Social & Team Features
+- [ ] 👥 Shared team dashboards
+- [ ] 📊 Public community leaderboard
+- [ ] 📣 Shareable session highlights
+
 
 ## 🧬 System Structure
 
