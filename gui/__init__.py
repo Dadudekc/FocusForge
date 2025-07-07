@@ -2,7 +2,9 @@
 GUI package for FocusForge.
 """
 
-from .components.main_window import MainWindow
+# Use the redesigned window by default
+from .components.modern_window import MainWindow
+from .components.splash_screen import SplashScreen
 from .dialogs.settings_dialog import SettingsDialog
 
-__all__ = ['MainWindow', 'SettingsDialog']
+__all__ = ['MainWindow', 'SplashScreen', 'SettingsDialog']

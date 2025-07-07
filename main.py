@@ -2,7 +2,8 @@
 
 import sys
 from PyQt5.QtWidgets import QApplication
-from gui.components.main_window import MainWindow
+# Import the new GUI from the package root
+from gui import MainWindow, SplashScreen
 from core.trackers.advanced_distraction import AdvancedDistractionDetector
 from core.analytics.focus_report import FocusReport
 
@@ -13,11 +14,15 @@ def main():
     distraction_detector = AdvancedDistractionDetector()
     window = MainWindow(distraction_detector)
 
-    # Start Advanced Distraction Monitoring
-    distraction_detector.start_monitoring()
+    # Show splash screen briefly before launching the main UI
+    splash = SplashScreen()
 
-    window.show()
-    print("Focus Forge UI Loaded!")
+    def launch():
+        distraction_detector.start_monitoring()
+        window.show()
+        print("Focus Forge UI Loaded!")
+
+    splash.launch(launch)
 
     # Ensure the distraction detector stops when the app closes
     app.aboutToQuit.connect(distraction_detector.stop_monitoring)
