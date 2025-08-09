@@ -1,7 +1,7 @@
-# FocusForge Product Requirements Document
+# focus-forge Product Requirements Document
 
 ## Overview
-FocusForge aims to help individuals maintain deep focus by detecting distractions, managing tasks, and rewarding consistent progress. The application combines a robust focus timer with lightweight gamification and analytics to encourage sustainable productivity.
+focus-forge aims to help individuals maintain deep focus by detecting distractions, managing tasks, and rewarding consistent progress. The application combines a robust focus timer with lightweight gamification and analytics to encourage sustainable productivity.
 
 ## Target Users
 - Developers and knowledge workers seeking improved concentration
@@ -11,7 +11,7 @@ FocusForge aims to help individuals maintain deep focus by detecting distraction
 ## Goals
 1. Provide real-time feedback on focus and distraction patterns
 2. Offer intuitive task management with deadlines and hierarchy
-3. Reward consistent practice through meta-skills and streak tracking
+3. Reward consistent practice-projects through meta-skills and streak tracking
 4. Deliver actionable insights via session analytics and reports
 5. Maintain a distraction-free user experience with minimal setup
 

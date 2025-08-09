@@ -1,4 +1,4 @@
-# FocusForge v2 Roadmap
+# focus-forge v2 Roadmap
 
 ## 🔰 Phase 1 — Core Focus Engine (Now)
 
@@ -37,7 +37,7 @@
 ### External Integrations
 - [ ] 🔌 Discord summary hook (weekly status dump)
 - [ ] 🛰️ JSON export format compatible with Dream.OS
-- [ ] 📡 Dream.OS → FocusForge task injection bridge (one-way only)
+- [ ] 📡 Dream.OS → focus-forge task injection bridge (one-way only)
 
 ### Data Portability
 - [ ] 📤 Export/import functionality

@@ -1,7 +1,7 @@
-# FocusForge Vision
+# focus-forge Vision
 
 ## Core Mission
-**FocusForge is your solo battle OS.**
+**focus-forge is your solo battle OS.**
 It helps you detect drift, reclaim time, and evolve through intentional reps — no agents, no lore, just real focus.
 
 ## Core Principles
@@ -26,10 +26,10 @@ It helps you detect drift, reclaim time, and evolve through intentional reps —
 
 ## Design Philosophy
 
-FocusForge is built on the principle that true productivity comes from:
+focus-forge is built on the principle that true productivity comes from:
 - Clear intention
 - Measured progress
-- Consistent practice
+- Consistent practice-projects
 - Personal accountability
 
 We believe in:
@@ -40,7 +40,7 @@ We believe in:
 
 ## Success Metrics
 
-A successful FocusForge user will:
+A successful focus-forge user will:
 1. Build longer, deeper focus sessions
 2. Develop stronger meta-skills
 3. Maintain higher task completion rates

@@ -1,4 +1,4 @@
-# FocusForge
+# focus-forge
 
 Your solo battle OS for deep focus and productivity.
 
@@ -9,7 +9,7 @@ Track. Train. Transform.
 ## 🏗️ Project Structure
 
 ```
-FocusForge/
+focus-forge/
 ├── core/                    # Core functionality
 │   ├── trackers/           # Distraction and activity tracking
 │   ├── analytics/          # Focus reporting and analysis
