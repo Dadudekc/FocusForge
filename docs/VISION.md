@@ -29,7 +29,7 @@ It helps you detect drift, reclaim time, and evolve through intentional reps —
 focus-forge is built on the principle that true productivity comes from:
 - Clear intention
 - Measured progress
-- Consistent practice-projects
+- Consistent practice-projects-projects
 - Personal accountability
 
 We believe in:

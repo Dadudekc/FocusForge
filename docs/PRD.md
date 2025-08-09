@@ -11,7 +11,7 @@ focus-forge aims to help individuals maintain deep focus by detecting distractio
 ## Goals
 1. Provide real-time feedback on focus and distraction patterns
 2. Offer intuitive task management with deadlines and hierarchy
-3. Reward consistent practice-projects through meta-skills and streak tracking
+3. Reward consistent practice-projects-projects through meta-skills and streak tracking
 4. Deliver actionable insights via session analytics and reports
 5. Maintain a distraction-free user experience with minimal setup
 
