@@ -2,6 +2,9 @@
 
 Your solo battle OS for deep focus and productivity.
 
+> **Status:** FocusForge is in the middle of a full rewrite from Python to C++. The
+> step-by-step migration plan lives in [`docs/cpp_rewrite_plan.md`](docs/cpp_rewrite_plan.md).
+
 ## 🎯 Mission
 
 Track. Train. Transform.
@@ -43,9 +46,10 @@ focus-forge/
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.8+ (legacy implementation)
 - PyQt5
 - SQLite3
+- C++17 compiler and CMake (for the ongoing rewrite)
 
 ### Setup
 
@@ -64,8 +68,10 @@ focus-forge/
 ### Running
 
 ```bash
-python main.py
+python main.py  # legacy Python entry point
 ```
+
+The C++ executable and build instructions will be added as the rewrite matures.
 
 ## 📝 License
 
@@ -84,6 +90,7 @@ MIT License - see LICENSE file for details
 - [Vision](docs/VISION.md)
 - [Roadmap](docs/ROADMAP_V2.md)
 - [Configuration](config/project_config.yaml)
+- [C++ Rewrite Plan](docs/cpp_rewrite_plan.md)
 
 
 
